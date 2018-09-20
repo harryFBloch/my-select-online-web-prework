@@ -1,3 +1,7 @@
 def my_select(collection)
- # your code here!
+ if !collection.empty?
+   
+ else
+   puts "Empty Collection"
+ end
 end
